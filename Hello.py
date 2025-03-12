@@ -11,6 +11,7 @@ spark = SparkSession.builder \
 # Create a DataFrame
 df = spark.createDataFrame([('tom', 20), ('jack', 40)], ['name', 'age'])
 
+print("test")
 # Print the number of rows in the DataFrame
 print(df.count())
 
