@@ -97,7 +97,7 @@ This phase builds an **AI-driven recommendation system** for **friend and busine
 ## **👨‍💻 Contributors**  
 - **Hala Serbouti** - (halaser3@gmail.com)- hala-404 
 - **Fatima Aaahra Akhsasi** - (fatiza479@gmail.com)- fatima-123-rgb
-- **MD Monem Shahreer Surjo** -  
-- **Minat Lasani Maisha** -   
+- **MD Monem Shahreer Surjo** - (monemshahreesurjo@gmail.com)- CodeArtistAladin
+- **Minat Lasani Maisha** -   (minatlasanimaisha@gmail.com)- MinatLasani
 
 ---
