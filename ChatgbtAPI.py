@@ -1,7 +1,7 @@
 import openai
 
 # Initialize ChatGPT API
-openai.api_key = "YOUR_API_KEY"
+openai.api_key = "sk-abc123xyz456def789ghi012jkl345mno678pqr901stu234"
 
 
 def generate_recommendation_explanation(user_id, business_id):
