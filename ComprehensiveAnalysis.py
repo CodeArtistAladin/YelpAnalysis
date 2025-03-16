@@ -2,7 +2,6 @@ from pyspark.sql import HiveContext
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import col, count, avg, size, split, row_number
 from pyspark.sql.window import Window
-
 spark = SparkSession.builder \
     .appName("Spark Example") \
     .master("local") \
