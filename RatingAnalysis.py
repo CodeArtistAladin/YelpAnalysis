@@ -1,7 +1,6 @@
 from pyspark.sql import HiveContext
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import col, count, avg, date_format, when
-
 spark = SparkSession.builder \
     .appName("Spark Example") \
     .master("local") \
