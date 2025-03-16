@@ -10,7 +10,6 @@ spark = SparkSession.builder \
 
 hc = HiveContext(spark.sparkContext)
 
-
 # 1. Analyze the number of users joining each year
 
 result = hc.sql("""
